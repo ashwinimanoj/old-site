@@ -1,0 +1,19 @@
+#small-img {
+ width:100px;
+ border-width:5px;
+ border-color:purple;
+ border-style:solid;
+ border-radius:50%;
+ }
+ 
+  #title-text{
+ color:black !important;
+ font-family: Lobster;
+ }
+ 
+ 
+ div {
+ background-color: #A2AEFF;
+ text-align:center;
+ opacity:0.5;
+ }
