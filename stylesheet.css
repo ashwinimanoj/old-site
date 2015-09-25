@@ -1,11 +1,27 @@
- 
- 
+#name{
+ text-align:center;
+ font-family: Lobster;
+ color: white;
+ opacity:0.1;
+}
+
+#about-me{
+padding-left: 400px;
+padding-top: 100px;
+color: white;
+font-family: Italianno;
+width: 930px;
+}
+body{
+background-color:#A2AEFF;
+}
+
  .top-part{
- padding-top:10px;
  background-color: #A2AEFF;
  text-align:center;
  font-size:20px;
  opacity:0.5;
+ margin: -10px;
  }
  
  .bottom-part{
