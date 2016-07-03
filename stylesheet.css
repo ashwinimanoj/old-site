@@ -12,8 +12,9 @@ font-family: Lato, sans-serif;
 font-size: 18px;
 }
 
-#intro{
+.spacing{
  padding-top: 30px;
+ padding-bottom: 10px;
 }
 
 section {
