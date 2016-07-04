@@ -13,7 +13,7 @@ font-size: 18px;
 }
 
 .spacing{
- padding-top: 30px;
+ padding-top: 40px;
  padding-bottom: 10px;
 }
 
@@ -22,8 +22,8 @@ section {
 }
 
 section#home {
-	height: 500px;
-	padding-top: 10px;
+	min-height: 500px;
+	padding-top: 30px;
 	background-color: white;
 	color: black;
 }
@@ -37,22 +37,50 @@ section#home {
 }
 
 section#about {
-	height: 500px;
-	padding-top: 10px;
+	min-height: 500px;
+	padding-top: 30px;
 	background-color:black;
 	color: white;
 }
 
 section#projects {
-	height: 500px;
-	padding-top: 10px;
+	min-height: 400px;
 	background-color: white;
 	color:black;
 }
 
+.large{
+	font-size: 50px;
+	padding-top:50px;
+	cursor: pointer;
+}
+
+#project1name {
+	border-style: solid;
+	border-color: black;
+	border-radius: 50%;
+	width: 160px;
+	height: 160px;
+	font-size:18px;
+	padding-top: 60px;
+	display: inline-block;
+	background-color: black;
+}
+
+
+#project2name {
+	border-style: solid;
+	border-color: black;
+	border-radius: 50%;
+	width: 160px;
+	height: 160px;
+	font-size:18px;
+	padding-top: 70px;
+	display: inline-block;
+}
 section#contact {
 	height: 500px;
-	padding-top: 10px;
+	padding-top: 30px;
 	background-color:black;
 	color: white;
 }
