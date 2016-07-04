@@ -12,6 +12,10 @@ font-family: Lato, sans-serif;
 font-size: 18px;
 }
 
+a{
+	color:inherit;
+}
+
 .spacing{
  padding-top: 40px;
  padding-bottom: 10px;
@@ -79,12 +83,16 @@ section#projects {
 	display: inline-block;
 }
 section#contact {
-	height: 500px;
+	height: 350px;
 	padding-top: 30px;
 	background-color:black;
 	color: white;
 }
 
+.icons {
+	font-size: 56px;
+	padding-top: 30px;
+}
 
  
  
