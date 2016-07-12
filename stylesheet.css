@@ -8,8 +8,8 @@
 
 body{
 background-color: white;
-font-family: Lato, sans-serif;
-font-size: 18px;
+font-family: Lato, Georgia;
+font-size: 16px;
 }
 
 a{
@@ -19,6 +19,8 @@ a{
 .spacing{
  padding-top: 40px;
  padding-bottom: 10px;
+ padding-left: 30px;
+ padding-right: 30px;
 }
 
 section {
